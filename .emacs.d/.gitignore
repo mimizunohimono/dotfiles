@@ -1,9 +1,8 @@
 *~
-eshell
-tramp
-Cask
-elpa
+/eshell/
+/tramp/
+/elpa/
 package.el
 .python-environments
 .DS_Store
-.cask
+/.cask/
