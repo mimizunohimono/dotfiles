@@ -339,10 +339,6 @@
 ;;clipboard
 (setq x-select-enable-clipboard t)
 
-;;w3m
-(add-to-list 'load-path "~/.emacs.d/vendor/emacs-w3m-1.4.4")
-(require 'w3m-load)
-
 ;;package
 (require 'package)
 
