@@ -2,7 +2,9 @@
 /eshell/
 /tramp/
 /elpa/
+/auto-save-list/
 package.el
 .python-environments
 .DS_Store
 /.cask/
+
